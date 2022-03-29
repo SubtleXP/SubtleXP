@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Javascript, and Lua
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTeamXP"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical&show_icons=true)![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTeamXP)
 
 <details>
 <summary>Popular Repositories</summary>
