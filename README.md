@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on FNF HTML5 Mod Ports
 
 - 🌱 I’m currently learning Javascript, and Lua
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&show_icons=true&theme=radical)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTeamXP)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
