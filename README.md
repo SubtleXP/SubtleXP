@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning Javascript, and Lua
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=)
