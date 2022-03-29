@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Javascript, and Lua
 
-
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical)
+[die](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical)
