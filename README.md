@@ -42,3 +42,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
+![Repo Theme](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=FNF-DUSTTALE-High-End-Device&theme=radical)
