@@ -49,7 +49,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
-<a href="https://img.shields.io/badge/SuperTeamX-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/SuperTeamX-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /> </a>
+<a href="https://img.shields.io/badge/SuperTeamX#6905-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/SuperTeamX#6905-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <a href="https://github.com/SuperTeamXP"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a>
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
