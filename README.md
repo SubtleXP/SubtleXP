@@ -6,6 +6,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTeamXP)](https://github.com/anuraghazra/github-readme-stats)
 
+![Repo FNF DUSTTALE Web High End Device Theme](https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-Web-High-End-Device&theme=radical) ![Repo FNF DUSTTALE Web Low End Device Theme](https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-Web-Low-End-Device&theme=radical)
+![Repo FNF DUSTTALE Web Potato Device Theme](https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-Web-Potato-Device&theme=radical) ![Repo FNF VS Shaggy Theme](https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-VS-Shaggy&theme=radical)
+
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -42,4 +45,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
-![Repo Theme](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=FNF-DUSTTALE-Web-High-End-Device&theme=radical)
