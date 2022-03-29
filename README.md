@@ -6,12 +6,12 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTeamXP)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/SuperTeamXP/FNF-DUSTTALE-High-End-Device" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-High-End-Device&theme=radical" /> <a href="https://github.com/SuperTeamXP/FNF-DUSTTALE-Low-End-Device" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-Low-End-Device&theme=radical" />
-<a href="https://github.com/SuperTeamXP/FNF-DUSTTALE-Web-Potato-Device" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-Web-Potato-Device&theme=radical" /> <a href="https://github.com/SuperTeamXP/FNF-VS-Shaggy" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-VS-Shaggy&theme=radical" />
+<a href="https://github.com/SuperTeamXP/FNF-DUSTTALE-High-End-Device">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-High-End-Device&theme=radical" /> </a> <a href="https://github.com/SuperTeamXP/FNF-DUSTTALE-Low-End-Device">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-Low-End-Device&theme=radical" /> </a>
+<a href="https://github.com/SuperTeamXP/FNF-DUSTTALE-Web-Potato-Device">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-Web-Potato-Device&theme=radical" /> </a> <a href="https://github.com/SuperTeamXP/FNF-VS-Shaggy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-VS-Shaggy&theme=radical" /> </a>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
@@ -45,7 +45,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
-<a href="https://img.shields.io/badge/SuperTeamX-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/SuperTeamX-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://img.shields.io/badge/SuperTeamX-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/SuperTeamX-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<a href="https://github.com/SuperTeamXP" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/SuperTeamXP"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a>
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
