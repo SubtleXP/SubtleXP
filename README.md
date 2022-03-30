@@ -4,7 +4,7 @@
 
 <p align="center"> 🌱 I’m currently learning Javascript, and Lua</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical&show_icons=true)![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTeamXP)
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical&show_icons=true">![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTeamXP)
 
 <details>
 <summary>Popular Repositories</summary>
