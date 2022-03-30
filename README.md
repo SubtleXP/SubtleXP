@@ -13,7 +13,7 @@
   <img width="320px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-Low-End-Device&theme=radical" /> </a>
 <a href="https://github.com/SuperTeamXP/FNF-DUSTTALE-Web-Potato-Device">
   <img width="320px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-DUSTTALE-Web-Potato-Device&theme=radical" /> </a> <a href="https://github.com/SuperTeamXP/FNF-VS-Shaggy">
-  <img width="320px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-VS-Shaggy&theme=radical" /> </a>
+  <img width="325px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuperTeamXP&repo=FNF-VS-Shaggy&theme=radical" /> </a>
 </details>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
