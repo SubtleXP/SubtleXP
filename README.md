@@ -1,8 +1,8 @@
-### Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> Welcome! <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 
-- 🔭 I’m currently working on FNF HTML5 and Android Mod Ports
+<p align="center"> 🔭 I’m currently working on FNF HTML5 and Android Mod Ports</p>
 
-- 🌱 I’m currently learning Javascript, and Lua
+<p align="center"> 🌱 I’m currently learning Javascript, and Lua</p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SuperTeamXP&theme=radical&show_icons=true)![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTeamXP)
 
