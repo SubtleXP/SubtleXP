@@ -1,8 +1,8 @@
 <h1 align="center"> Welcome! <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 
-<p align="center"> 🔭 I’m currently working on FNF HTML5 and Android Mod Ports</p>
+<p align="center"> 🔭 I’m currently working on modding various Gamemaker games</p>
 
-<p align="center"> 🌱 I’m currently learning Javascript, and Lua</p>
+<p align="center"> 🌱 I’m currently learning GML, and very rarely Lua</p>
 
 <img width="410px" src="https://github-readme-stats.vercel.app/api?username=SuperTeamXx&theme=radical&show_icons=true"/><img width="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperTeamXx"/>
 <details>
